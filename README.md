@@ -11,7 +11,7 @@ Plataforma de **Business Intelligence (BI)** que transforma datos crudos en deci
 ## 📸 Demo del Módulo IA
 El sistema proyecta (línea punteada) el comportamiento futuro del mercado:
 
-**(ARRASTRA TU FOTO AQUÍ)**
+<img width="1190" height="795" alt="Dashboard_inteligencia1" src="https://github.com/user-attachments/assets/9b4d2d7a-c29e-4517-806e-638870d80511" />
 
 ## 🛠 Stack Tecnológico
 * **Lenguaje:** Python 3.10
